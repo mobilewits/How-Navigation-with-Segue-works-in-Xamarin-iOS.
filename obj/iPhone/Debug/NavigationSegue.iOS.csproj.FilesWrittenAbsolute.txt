@@ -1,0 +1,14 @@
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/33-view-34.nib
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-33.nib
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-8.nib
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/actool/partial-info.plist
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/bin/iPhone/Debug/NavigationSegue.iOS.exe.mdb
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/bin/iPhone/Debug/NavigationSegue.iOS.exe
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/NavigationSegue.iOS.exe
+/Users/harry/Projects/NavigationSegue/NavigationSegue.iOS/obj/iPhone/Debug/NavigationSegue.iOS.exe.mdb

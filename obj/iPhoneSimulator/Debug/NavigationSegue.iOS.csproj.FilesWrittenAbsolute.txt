@@ -1,0 +1,28 @@
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/33-view-34.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-33.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-8.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/bin/iPhoneSimulator/Debug/NavigationSegue.iOS.exe.mdb
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/bin/iPhoneSimulator/Debug/NavigationSegue.iOS.exe
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/NavigationSegue.iOS.exe
+/Users/harry/Desktop/Xamarin Tutorials MJ/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/NavigationSegue.iOS.exe.mdb
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/33-view-34.nib
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-33.nib
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-8.nib
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/bin/iPhoneSimulator/Debug/NavigationSegue.iOS.exe.mdb
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/bin/iPhoneSimulator/Debug/NavigationSegue.iOS.exe
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/NavigationSegue.iOS.exe
+/Volumes/HP V215B/Live/IOS/NavigationSegue/NavigationSegue.iOS/obj/iPhoneSimulator/Debug/NavigationSegue.iOS.exe.mdb
